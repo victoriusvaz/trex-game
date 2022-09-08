@@ -4,9 +4,11 @@
    |  |    |  '--'.' |  `--,    .'    \   
    |  |    |  |\  \  |  `---.  /  .'.  \  
    `--'    `--' '--' `------' '--'   '--' 
-                                          
-Based on google game
-Author : victorius
+
+nased on google game
+
+author : victoriusvaz
+email : victor.fabriciovaz@gmail.com
 */
 
 var trex, trex_running;
